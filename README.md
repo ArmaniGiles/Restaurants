@@ -1,2 +1,4 @@
 # Restaurants
-Make A RestFulApi
+Make A Simple RestFulApi with DRF
+
+pip install -r requirements.txt
